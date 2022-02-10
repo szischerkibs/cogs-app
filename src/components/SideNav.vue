@@ -60,7 +60,7 @@ export default {
     };
   },
   created() {
-    var userRoles = ["everybody", "volunteers", "admin"];
+    var userRoles = ["everybody", "volunteers"];
     var nav = [];
     this.$router.options.routes.forEach(function (r) {
       //Check if user has permissions to access the route

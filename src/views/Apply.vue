@@ -1,4 +1,5 @@
 <template>
+
   <v-card>
     <h1>Apply</h1>
   </v-card>
